@@ -59,3 +59,5 @@ Udemy Python Bootcamp
 - Day 20 & 21
     - 클래스 활용
     - snake game 생성
+- Day 22
+    - Pong game 생성
