@@ -61,3 +61,5 @@ Udemy Python Bootcamp
     - snake game 생성
 - Day 22
     - Pong game 생성
+- Day 23
+    - turtle crossing game 생성
