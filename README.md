@@ -63,3 +63,6 @@ Udemy Python Bootcamp
     - Pong game 생성
 - Day 23
     - turtle crossing game 생성
+- Day 24
+    - snake game에서 best score 유지 될 수 있게 txt 파일 연동 
+    - mail merge project 
