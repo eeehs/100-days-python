@@ -66,3 +66,5 @@ Udemy Python Bootcamp
 - Day 24
     - snake game에서 best score 유지 될 수 있게 txt 파일 연동 
     - mail merge project 
+- Day 25
+    - pandans를 이용하여 데이터를 추출 후 데이터를 csv 파일로 생성 
