@@ -70,3 +70,5 @@ Udemy Python Bootcamp
     - pandans를 이용하여 데이터를 추출 후 데이터를 csv 파일로 생성 
 - Day 26
     - List Comprehension 및 Dictionary Comprehension을 사용해서 nato_phonetic_apphabet_game 생성
+- Day 27
+    - Tkinter를 이용하여 mile_to_kilo_converter 프로그램을 생성
