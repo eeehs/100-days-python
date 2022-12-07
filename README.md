@@ -72,3 +72,5 @@ Udemy Python Bootcamp
     - List Comprehension 및 Dictionary Comprehension을 사용해서 nato_phonetic_apphabet_game 생성
 - Day 27
     - Tkinter를 이용하여 mile_to_kilo_converter 프로그램을 생성
+- Day 28
+    - Tkinter를 이용하여 Pomodoro 프로그램 생성 
