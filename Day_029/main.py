@@ -48,7 +48,7 @@ def add():
     else:
         is_ok = messagebox.askokcancel(title=website, message=f"These are the details entered: \nEmail:{email}"f"\nPassword: {password} \nIs it ok to save?")
         if is_ok:
-            with open("\\Users\\dlrb9\\OneDrive\\바탕 화면\\github\\100-days-python\\Day_029\\data.txt","a") as file:
+            with open(".\\Day_029\\data.txt","a") as file: # 파일 경로를 맞출 수 있게 설정해놓자.
                 content = f"{website} | {email} | {password} \n"
                 file.write(content)
             Website_input.delete(0,'end')
@@ -60,7 +60,7 @@ root.title("Password Manager")
 root.config(padx=50,pady=50)
 
 canvas = Canvas(width=200,height=200)
-logo_img = PhotoImage(file="\\Users\\dlrb9\\OneDrive\\바탕 화면\\github\\100-days-python\\Day_029\\logo.png")
+logo_img = PhotoImage(file=".\\Day_029\\logo.png")
 canvas.create_image(100,100,image=logo_img)
 canvas.grid(row=0,column=1)
 
