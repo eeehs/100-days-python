@@ -76,3 +76,5 @@ Udemy Python Bootcamp
     - Tkinter를 이용하여 Pomodoro 프로그램 생성 
 - Day 29
     - Tkinter를 이용하여 password 저장 프로그램 생성 
+- Day 30
+    - try,catch,except,finally 예외 처리 정리 후 nato 프로그램 및 password 프로그램에 대한 예외처리 적용
