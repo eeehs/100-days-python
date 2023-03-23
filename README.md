@@ -17,6 +17,8 @@
 	- 비밀번호 생성기 
 - Day 6
 	- Reeborg's World 페이지에서 미로찾기 실습
+- Day 7
+	- Hangman game
 - Day 32
 	- smtplib을 이용하여 생일 및 동기부여 글귀 이메일 보내기
 - Day 33
