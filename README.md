@@ -30,6 +30,8 @@
 	- 텍스트 계산기 
 - Day 11
 	- 블랙잭 게임
+- Day 12
+	- Guess_number 게임
 - Day 32
 	- smtplib을 이용하여 생일 및 동기부여 글귀 이메일 보내기
 - Day 33
