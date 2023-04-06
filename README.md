@@ -34,6 +34,12 @@
 	- Guess_number 게임
 - Day 13
 	- 디버깅 연습
+- Day 14
+	- Higher_lower 게임
+- Day 15
+	- 커피 머신 
+- Day 16
+	- OOP 객체 지향 프로그래밍 연습
 - Day 32
 	- smtplib을 이용하여 생일 및 동기부여 글귀 이메일 보내기
 - Day 33
