@@ -43,6 +43,8 @@
 	- class를 이용한 커피 머신 생성
 - Day 17
 	- OOP 퀴즈 프로젝트
+- Day 18
+	- turtle 프로젝트
 - Day 32
 	- smtplib을 이용하여 생일 및 동기부여 글귀 이메일 보내기
 - Day 33
