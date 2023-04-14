@@ -45,6 +45,9 @@
 	- OOP 퀴즈 프로젝트
 - Day 18
 	- turtle 프로젝트
+- Day 19
+	- turtle race 
+	- turtle sketch
 - Day 32
 	- smtplib을 이용하여 생일 및 동기부여 글귀 이메일 보내기
 - Day 33
