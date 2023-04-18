@@ -14,6 +14,13 @@ class Snake:
             l_x -=20
             self.snake_turtle.append(snake)
     
+    def extend(self):
+        snake = Turtle(shape="square")
+        snake.color("white")
+        snake.penup()
+        snake.goto(self.snake_turtle[-1].position())
+        self.snake_turtle.append(snake)
+
     def move(self):
         step = -1
         for i in range(len(self.snake_turtle)-1):
