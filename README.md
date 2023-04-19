@@ -52,6 +52,8 @@
 	- snake game animation & coordinate
 - Day 21 
 	- snake game
+- Day 22
+	- Ping game
 - Day 32
 	- smtplib을 이용하여 생일 및 동기부여 글귀 이메일 보내기
 - Day 33
