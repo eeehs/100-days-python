@@ -56,6 +56,8 @@
 	- Ping game
 - Day 23
 	- turtle cross game
+- Day 24
+	- 파일 입출력 
 - Day 32
 	- smtplib을 이용하여 생일 및 동기부여 글귀 이메일 보내기
 - Day 33
