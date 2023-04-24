@@ -58,6 +58,9 @@
 	- turtle cross game
 - Day 24
 	- 파일 입출력 
+- Day 25
+	- Pandas 기본 사용
+	- 데이터 추출
 - Day 32
 	- smtplib을 이용하여 생일 및 동기부여 글귀 이메일 보내기
 - Day 33
