@@ -66,6 +66,8 @@
 - Day 27
 	- Tkinter 기초
 	- Tkinter를 이용한 Mile to Km converter 만들기
+- Day 28
+	- Pomodoro 
 - Day 32
 	- smtplib을 이용하여 생일 및 동기부여 글귀 이메일 보내기
 - Day 33
